@@ -150,9 +150,9 @@ food/slgter_supplies_26jun15.csv,by quarter,UK Production Total meat,Total Impor
 2014,Q3(p),901.9,412.9,200.7,2.7,1111.4,68.6,207,59.1,21.7,33.6,,254.2,71.9,81.6,22,26.7,2.2,74.6,78.8,203.8,183,55.3,0.5,331.1,52.7,409.6,127,85.1,451.5,76.3
 2014,Q4(p),951.9,446.6,201.1,4,1193.4,68.1,226.3,71.8,22.8,36.4,,284.5,70.5,88.6,19.4,29.6,3.5,75,82.1,218.3,193.6,53.9,0.5,357.6,53,418.6,139.1,81.2,476.4,75.1
 2015,Q1(p),917,418.7,176.5,2.8,1156.4,68.7,221.3,61.4,19.6,28.6,,273.6,73.2,71,35.8,19.9,2.3,84.6,66.5,211.7,178.5,52.3,0.5,337.3,54.3,413.2,123.4,75.7,460.9,77
-2015,Q2(p),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2015,Q3(p),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2015,Q4(p),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+#2015,Q2(p),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+#2015,Q3(p),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+#2015,Q4(p),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ###p    Data are provisional####,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ####Imported and Export columns  Boneless meat has been converted to bone in weights####,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ####Imported and Exported Supply for poultry All trade figures include an estimate for unrecorded trade####,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -160,6 +160,6 @@ food/slgter_supplies_26jun15.csv,by quarter,UK Production Total meat,Total Impor
 ####From May 2006 includes exported live cattle#####,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ####1997 Quarter 2 supplies excludes 7.9 ThT of destroyed intervention beef####,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ####These home fed production figures were collected on a 53 week (14 week 4th Quarter) basis but have been adjusted to a 52 week year (13 week 4th quarter) for comparability####,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"####Total meat = Beef and veal, mutton and lamb, pigmeat and poultrymeat Figures have been rounded individually and totals will not necessarily agree with the addition of separate figures####",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+####Total meat = Beef and veal, mutton and lamb, pigmeat and poultrymeat Figures have been rounded individually and totals will not necessarily agree with the addition of separate figures####",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ####lamb and mutton home fed production figures were collected on a 53 week (14 week 4th Quarter) basis but have been adjusted to a 52 week year (13 week 4th quarter) for comparability####,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ####Excludes imported carcase meat for home curing into bacon####,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
